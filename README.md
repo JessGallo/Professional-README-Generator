@@ -23,4 +23,4 @@ WHEN I click on the links in the Table of Contents\
 THEN I am taken to the corresponding section of the README
 
 ## Walkthrough Video
-<iframe src="https://drive.google.com/file/d/1eDneawZZbv331_UeayJPQ-Ek4hdWSDXw/preview" width="640" height="480"></iframe>
+[Untitled_ May 3, 2022 4_18 AM.mp4.zip](https://github.com/JessGallo/Professional-README-Generator/files/8609675/Untitled_.May.3.2022.4_18.AM.mp4.zip)
