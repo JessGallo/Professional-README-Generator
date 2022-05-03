@@ -21,3 +21,6 @@ WHEN I enter my email address\
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions\
 WHEN I click on the links in the Table of Contents\
 THEN I am taken to the corresponding section of the README
+
+## Walkthrough Video
+<iframe src="https://drive.google.com/file/d/1eDneawZZbv331_UeayJPQ-Ek4hdWSDXw/preview" width="640" height="480"></iframe>
